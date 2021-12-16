@@ -1,0 +1,3 @@
+Fun Main;
+	Console.WriteLine (string "Hello World!");
+EndFun (null);
